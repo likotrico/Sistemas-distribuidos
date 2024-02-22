@@ -31,7 +31,7 @@ public class Server extends UnicastRemoteObject implements Interface{
 
     @Override
     public String serverIP() {
-        return "127.0.0.1";
+        return "10.0.84.186";
     }
 
 
